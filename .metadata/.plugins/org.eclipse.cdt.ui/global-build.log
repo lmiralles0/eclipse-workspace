@@ -1,0 +1,5 @@
+02:28:41 **** Rebuild of configuration Debug for project Start1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Start1.o" "..\\src\\Start1.c" 
+gcc -o Start1.exe "src\\Start1.o" 
+Info: Nothing to build for Start1

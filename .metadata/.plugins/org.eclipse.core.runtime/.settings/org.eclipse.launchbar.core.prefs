@@ -1,0 +1,16 @@
+LaunchTargetManager/configs/Prueba\ 3.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Start.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Start1.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/biblioteca1.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/menu.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:biblioteca1.exe,org.eclipse.launchbar.core.descriptorType.default\:biblioteca2.exe,org.eclipse.launchbar.core.descriptorType.default\:menuBaus.exe,org.eclipse.launchbar.core.descriptorType.default\:Prueba 1.exe,org.eclipse.launchbar.core.descriptorType.default\:Prueba 2.exe,org.eclipse.launchbar.core.descriptorType.default\:Prueba 3.exe,org.eclipse.launchbar.core.descriptorType.default\:prueba4.exe,org.eclipse.launchbar.core.descriptorType.default\:prueba5.exe,org.eclipse.launchbar.core.descriptorType.default\:Start.exe,org.eclipse.launchbar.core.descriptorType.default\:Start1.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Prueba\ 1.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Prueba\ 1.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:biblioteca1.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:biblioteca1.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:menu.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:menu.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

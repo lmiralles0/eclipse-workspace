@@ -1,0 +1,22 @@
+/*
+ * ImprimirYOrdenarArrays.c
+ *
+ *  Created on: 15 oct. 2020
+ *      Author: Luciano Miralles
+ */
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+
+
+int imprimirArrays(int* pArrays, int longitud, int valorInicial)
+{
+
+
+
+
+	return EXIT_SUCCESS;
+}
+
+

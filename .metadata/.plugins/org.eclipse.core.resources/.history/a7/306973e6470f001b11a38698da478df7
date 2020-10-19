@@ -1,0 +1,25 @@
+/*
+ * ImprimirYOrdenarArrays.c
+ *
+ *  Created on: 15 oct. 2020
+ *      Author: Luciano Miralles
+ */
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+
+
+int imprimirArrays(int* pArrays, int longitud, int valorInicial)//esta funcion devuelve -1 como error y 0 como todo ok
+{
+	int respuesta = -1;
+
+	if(pArrays != NULL && longitud > 0)
+
+
+
+
+	return EXIT_SUCCESS;
+}
+
+

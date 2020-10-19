@@ -1,0 +1,37 @@
+/*
+ ============================================================================
+ Name        : biblioteca1.c
+ Author      : Luciano Miralles
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include "get_Entrada.h"
+
+char get_EntradaChar(char* pResultado, char* mensaje, char* mensajeError, char maximo, char minimo, int intentos);
+
+int main(void)
+{
+	setbuf(stdout, NULL);
+	char respuesta;
+
+	if(get_EntradaChar(&respuesta,"Escriba edad: ","Ingreso una edad invalida.\n",'a','z',3) == 0)
+	{
+		printf("La edad ingresada es %c.", respuesta);
+
+	}
+	else
+	{
+		printf("\nError.");
+
+	}
+
+
+
+
+	return EXIT_SUCCESS;
+}
